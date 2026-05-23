@@ -62,7 +62,7 @@ pip install -r requirements.txt
 <p>Create a <code>.env</code> file and add your API key:</p>
 
 <pre>
-OPENAI_API_KEY=your_api_key_here
+GROQ_API_KEY=YOUR_API_KEY
 </pre>
 
 <hr>
